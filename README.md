@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farai Mashiri.
-- 👀 I’m interested in data analysis, business intelligence and applications to Biosystems and Bioinformatics.
+- 👀 I’m interested in data analysis, business intelligence and applications to Education, Biosystems and Bioinformatics.
 - 🌱 I’m currently learning Data Science, Analytics and Biostatistics.
 - 📫 You can contact me on farai.mashiri@gmail.com
 
